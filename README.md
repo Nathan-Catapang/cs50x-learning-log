@@ -1,13 +1,22 @@
-# cs50x-learning-log
+## cs50x-learning-log
 Here, my cs50x learning journey will be documented.
 
-### Day 1 (July 6, 2026)
-- Started the CS50x course.
-- Set up my environment
-- finished cs50 Lecture 0 lecture as well as Pset 0: Scratch.
+## Day 1 (July 6, 2026)
+- Scratch Basics: Explored visual programming building blocks, loops, conditions, and event handlers.
+- Environment Setup: Configured the cloud-based VS Code environment tailored for the course.
+- Milestones: Completed Lecture 0 and successfully submitted Problem Set 0: Scratch.
 
-### Day 2 (July 7, 2026)
-- Started Lecture 1, C
-- tried out stuff in comparison to python
-- wrote my first hello world, utilizing new concepts like compiling and ./
-- solve first problem set in C!
+## Day 2 (July 7, 2026)
+- C Syntax Introduction: Discovered strongly-typed language mechanics and compared them directly to Python.
+- Compilation Workflows: Wrote a basic hello-world program, applying manual compilation commands like make and executing binaries via ./.
+- Milestones: Completed Lecture 1 and solved the initial C coding challenges.
+
+## Day 3 (July 8, 2026)
+- Data Type Limits: Explored structural limits of hardware data types, analyzing how integer overflow occurs and how truncation handles floating-point arithmetic precision.
+- Nested Loops: Implemented structured multi-level loops to format visual text grids and patterns in the terminal grid.
+- Modular Design: Built reusable custom functions, defining parameter signatures and handling variable scopes.
+- Milestones: Finished all of Problem Set 1 (Hello, Mario, and Cash/Credit), mastering user-input validation tools like get_int and get_string.
+
+### Day 4 (July 9, 2026)
+- to do
+
