@@ -18,5 +18,16 @@ Here, my cs50x learning journey will be documented.
 - Milestones: Finished all of Problem Set 1 (Hello, Mario, and Cash/Credit), mastering user-input validation tools like get_int and get_string.
 
 ### Day 4 (July 9, 2026)
-- to do
+- finished lecture 2, Arrays, and the underlying concepts it teaches.
+- Started doing problem set 2
+
+### Day 5 (July 10, 2026)
+- Finished doing PSet Scrabble
+- Finished doung pset readability
+
+### Day 6 (July 11, 2026)
+- FInished doing caesar and substitution
+- started watching lecture 3, first half
+
+
 
