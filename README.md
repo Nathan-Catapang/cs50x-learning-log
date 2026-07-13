@@ -29,5 +29,9 @@ Here, my cs50x learning journey will be documented.
 - FInished doing caesar and substitution
 - started watching lecture 3, first half
 
+### Day 7 (July 13, 2026)
+- finished lecture 3, and shorts
+- started psets
+
 
 
