@@ -55,3 +55,8 @@ Here, my cs50x learning journey will be documented.
 ### Day 9 (July 16, 2026)
 - Finished watching lecture 4, on memory, memory allocation, dereferencing, pointers, and stdlib.h methods. Removed the training wheels.
 - started doing problem sets.
+
+### Day 10 - 13 (july 20, 2026)
+- took the time to comprehend memory and pointers while doing problem sets.
+- finished all problem sets like volume, filter, recover.
+- started watching first quarter of week 5, algorithms
