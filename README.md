@@ -56,7 +56,13 @@ Here, my cs50x learning journey will be documented.
 - Finished watching lecture 4, on memory, memory allocation, dereferencing, pointers, and stdlib.h methods. Removed the training wheels.
 - started doing problem sets.
 
-### Day 10 - 13 (july 20, 2026)
+### Day 10 - 13 (July 20, 2026)
 - took the time to comprehend memory and pointers while doing problem sets.
 - finished all problem sets like volume, filter, recover.
 - started watching first quarter of week 5, algorithms
+
+### Day 14 (July 21, 2026)
+- Finished watching cs50 lecture 5, Algoeithms, consisting of linked lists, hashmaps, tries, how to map pointers datatypes, stacks, queues trees, binary seach trees
+- will start doing psets later.
+
+
