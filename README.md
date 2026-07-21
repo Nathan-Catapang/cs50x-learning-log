@@ -64,5 +64,6 @@ Here, my cs50x learning journey will be documented.
 ### Day 14 (July 21, 2026)
 - Finished watching cs50 lecture 5, Algoeithms, consisting of linked lists, hashmaps, tries, how to map pointers datatypes, stacks, queues trees, binary seach trees
 - will start doing psets later.
+- started watching shorts first on Structures Singly-Linked Lists Doubly-Linked Lists Stacks Queues Hash Tables Tries Data Structures
 
 
