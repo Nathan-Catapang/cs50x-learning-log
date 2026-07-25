@@ -72,3 +72,12 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 16 (July 23, 2026)
 - started watching week 6, python
+- finished watching week 6
+- started psets
+
+### Day 18 (July 24, 2026)
+- finished psets of python week
+
+### Day 19 (July 25, 2026)
+- started lecture 7 on SQL
+
