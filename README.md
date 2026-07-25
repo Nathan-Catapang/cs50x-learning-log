@@ -84,3 +84,6 @@ Here, my cs50x learning journey will be documented.
 - Code Implementation: Automated text file parsing and string search comparisons for DNA verification tracking.
 - Milestones: Finished psets of python week.
 - Problems Encountered: Experienced matching loop breaks caused by data type discrepancies between target strings and CSV text columns.
+
+### Day 17 (July 25, 2026)
+- Currently undergoing hehe
