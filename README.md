@@ -87,3 +87,7 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 17 (July 25, 2026)
 - Currently undergoing hehe
+- watched week 7 on sql
+
+### Day 18 (July 26, 2026)
+- trying out sqlite setup.
