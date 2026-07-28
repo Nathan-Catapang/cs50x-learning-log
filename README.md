@@ -88,7 +88,7 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 19 (July 25, 2026)
 - Currently undergoing hehe
-- moved to sql, watched first have
+- moved to sql, watched first half. learned about setup and databases, relational in particular.
 
 ### Day 21 (July  27, 2026)
  - Finished week 7, SQL Lecture
@@ -99,9 +99,9 @@ Here, my cs50x learning journey will be documented.
 - Started doing problem sets
 
 ### Day 22 (July 29, 2026)
-- Ongoing
+- Onging
+- Watched additional lecture on Artificial Intelligence.
+- Finished SQL pset 1 and 2
 
-
--
 ### Day 18 (July 26, 2026)
-- trying out sqlite setup.
+- Down to the last pset before moving on to week 8.
