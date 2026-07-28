@@ -85,9 +85,23 @@ Here, my cs50x learning journey will be documented.
 - Milestones: Finished psets of python week.
 - Problems Encountered: Experienced matching loop breaks caused by data type discrepancies between target strings and CSV text columns.
 
-### Day 17 (July 25, 2026)
-- Currently undergoing hehe
-- watched week 7 on sql
 
+### Day 19 (July 25, 2026)
+- Currently undergoing hehe
+- moved to sql, watched first have
+
+### Day 21 (July  27, 2026)
+ - Finished week 7, SQL Lecture
+ - Practiced CRUD operations with sample index from the lecture
+
+### Day 21 (July 28, 2026)
+- Watched SQL shorts
+- Started doing problem sets
+
+### Day 22 (July 29, 2026)
+- Ongoing
+
+
+-
 ### Day 18 (July 26, 2026)
 - trying out sqlite setup.
