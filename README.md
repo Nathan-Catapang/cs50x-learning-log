@@ -103,5 +103,12 @@ Here, my cs50x learning journey will be documented.
 - Watched additional lecture on Artificial Intelligence.
 - Finished SQL pset 1 and 2
 
-### Day 18 (July 26, 2026)
+### Day 23 (July 30, 2026)
 - Down to the last pset before moving on to week 8.
+- watched Lecture 8
+
+### Day 24 (July 31, 2026)
+- watching shorts
+- will start pset on week 8
+
+
