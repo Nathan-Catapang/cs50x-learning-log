@@ -99,7 +99,7 @@ Here, my cs50x learning journey will be documented.
 - Started doing problem sets
 
 ### Day 22 (July 29, 2026)
-- Onging
+- Ongoing
 - Watched additional lecture on Artificial Intelligence.
 - Finished SQL pset 1 and 2
 
@@ -107,8 +107,10 @@ Here, my cs50x learning journey will be documented.
 - Down to the last pset before moving on to week 8.
 - watched Lecture 8
 
-### Day 24 (July 31, 2026)
+### Day 24 (Aug 1, 2026)
 - watching shorts
 - will start pset on week 8
 
+### Day 25 (Aug 3, 2026) 
+- reviewing more on backend basics stuff before moving to pset.
 
