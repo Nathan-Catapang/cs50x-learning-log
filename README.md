@@ -118,3 +118,8 @@ Here, my cs50x learning journey will be documented.
 ### Day 25 (Aug 3, 2026) 
 - reviewing more on backend basics stuff before moving to pset.
 
+###  Day 25 (Aug 6, 2026)
+- just started college
+- will try to start the coding grind again.
+- 
+
