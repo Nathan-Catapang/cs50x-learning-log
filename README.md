@@ -115,8 +115,6 @@ Here, my cs50x learning journey will be documented.
 
  ### Day 26 (Aug 4, 2026)
 - finished watching cs50 week 8.
-- will move on to watching shorts pf flask
-- will start pset on week 8
 
 ###  Day 27 (Aug 6, 2026)
 - just started college
@@ -124,5 +122,8 @@ Here, my cs50x learning journey will be documented.
 
  ### Day 28 (Aug 9, 2026)
 - finished week 8 short on flask
-- on to watch ajax short
+- finsihed week 8 short on ajax
+
+### Day 29 (Aug 10, 2026)
+- will start doing psets
 
