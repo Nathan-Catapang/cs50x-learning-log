@@ -120,10 +120,10 @@ Here, my cs50x learning journey will be documented.
 - just started college
 - will try to start the coding grind again.
 
- ### Day 28 (Aug 9, 2026)
+ ### Day 28 (Aug 7, 2026)
 - finished week 8 short on flask
 - finsihed week 8 short on ajax
 
-### Day 29 (Aug 10, 2026)
-- will start doing psets
+### Day 29 (Aug 8, 2026)
+- started doing psets of week 8, Flask.
 
