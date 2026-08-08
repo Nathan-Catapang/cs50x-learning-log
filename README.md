@@ -127,3 +127,6 @@ Here, my cs50x learning journey will be documented.
 ### Day 29 (Aug 8, 2026)
 - started doing psets of week 8, Flask.
 - Finishec pset birthdays, implementing proper flask logic with a twist of use of exception handling and jinja syntax
+
+### Day 30 (Aug 9, 2026)
+- WIll do finance pset
