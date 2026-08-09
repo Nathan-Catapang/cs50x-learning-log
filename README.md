@@ -130,3 +130,4 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 30 (Aug 9, 2026)
 - WIll do finance pset
+- did app.py part of pset, will do the templates part later.
