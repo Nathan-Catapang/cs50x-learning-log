@@ -131,3 +131,6 @@ Here, my cs50x learning journey will be documented.
 ### Day 30 (Aug 9, 2026)
 - WIll do finance pset
 - did app.py part of pset, will do the templates part later.
+
+### Day 31 (Aug 10, 2026)
+- finished week 9 PSETS. will move on to the lecture the end.
