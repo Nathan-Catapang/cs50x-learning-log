@@ -134,3 +134,6 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 31 (Aug 10, 2026)
 - finished week 9 PSETS. will move on to the lecture the end.
+
+### Day 32 (Aug 11, 2026)
+- watched last lecture of cs50p, week 10
