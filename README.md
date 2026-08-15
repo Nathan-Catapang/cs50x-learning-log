@@ -128,12 +128,18 @@ Here, my cs50x learning journey will be documented.
 - started doing psets of week 8, Flask.
 - Finishec pset birthdays, implementing proper flask logic with a twist of use of exception handling and jinja syntax
 
-### Day 30 (Aug 9, 2026)
+### Day 30 (Aug 10, 2026)
 - WIll do finance pset
 - did app.py part of pset, will do the templates part later.
 
-### Day 31 (Aug 10, 2026)
+### Day 31 (Aug 12, 2026)
 - finished week 9 PSETS. will move on to the lecture the end.
+
+### Day 32 (Aug 13, 2026)
+- planning which project to build, while talking cs50's final project's criteria into account.
+
+### Day 33, (Aug 14, 2026)
+- am currently learning python framework stack, particularly transitioning from flask to fastapi to learn routing with ai native tools.
 
 ### Day 32 (Aug 11, 2026)
 - watched last lecture of cs50, week 10
