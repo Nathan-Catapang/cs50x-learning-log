@@ -135,14 +135,14 @@ Here, my cs50x learning journey will be documented.
 ### Day 31 (Aug 12, 2026)
 - finished week 9 PSETS. will move on to the lecture the end.
 
-### Day 32 (Aug 13, 2026)
-- planning which project to build, while talking cs50's final project's criteria into account.
-
-### Day 33, (Aug 14, 2026)
-- am currently learning python framework stack, particularly transitioning from flask to fastapi to learn routing with ai native tools.
-
 ### Day 32 (Aug 11, 2026)
 - watched last lecture of cs50, week 10
 
 ###  Day 33 (Aug 12, 2026) 
 - will start the  cs50x final project soon.
+
+### Day 34 (Aug 13, 2026)
+- planning which project to build, while talking cs50's final project's criteria into account.
+
+### Day 35, (Aug 14, 2026)
+- am currently learning python framework stack, particularly transitioning from flask to fastapi to learn routing with ai native tools.
