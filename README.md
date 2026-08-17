@@ -146,3 +146,7 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 35, (Aug 14, 2026)
 - am currently learning python framework stack, particularly transitioning from flask to fastapi to learn routing with ai native tools.
+
+### Day 36, (Aug 15. 2026)
+- currently making FastAPI Mini project for am async fullstack application with ai integration.
+- dwelling on the basics of the framework like async and some external libraries. 
