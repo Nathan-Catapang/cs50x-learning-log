@@ -151,3 +151,4 @@ Here, my cs50x learning journey will be documented.
 - currently making FastAPI Mini project for am async fullstack application with ai integration.
 - dwelling on the basics of the framework like async and some external libraries.
 - currently learning more on asyncio for the backround processes and for better backend knowledge.
+- will dwell on async orms
