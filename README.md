@@ -155,3 +155,6 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 37, (Aug 18, 2026)
 - proceeded working on my backend mini-project focused on fastapi to get enough framework knowledge for the CS50x final project.
+- finished routing api.
+- updating configurations.
+- learned more of concurrency
