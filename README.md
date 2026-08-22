@@ -162,3 +162,6 @@ Here, my cs50x learning journey will be documented.
 ### Day 38, (Aug 19, 2026)
 - finished the fastapi tutorial i watched
 - finished a backend fastapi mini-project
+
+### Day 39, (Aug 21, 2026)
+- moving to low cost stack alternatives for low scaling
