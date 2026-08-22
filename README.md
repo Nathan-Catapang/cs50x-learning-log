@@ -158,3 +158,6 @@ Here, my cs50x learning journey will be documented.
 - finished routing api.
 - updating configurations.
 - learned more of concurrency
+
+### Day 38, (Aug 19, 2026)
+- finished the fastapi tutorial i watched
