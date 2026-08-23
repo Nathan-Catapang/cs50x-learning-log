@@ -165,3 +165,6 @@ Here, my cs50x learning journey will be documented.
 
 ### Day 39, (Aug 21, 2026)
 - moving to low cost stack alternatives for low scaling
+
+### Day 40, (Aug 22, 2026)
+- learning typescript for the frontend side and will try to complete some fullstack project that might be my proposal for cs50x final project
