@@ -169,5 +169,8 @@ Here, my cs50x learning journey will be documented.
 ### Day 40, (Aug 22, 2026)
 - learning typescript for the frontend side and will try to complete some fullstack project that might be my proposal for cs50x final project
 
+### Day 41 (Aug 28, 2026)
+- took a break because of acads.
+
 ### Day 41, (Aug 25, 2026)
 - continuation
