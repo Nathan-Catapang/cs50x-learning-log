@@ -172,5 +172,7 @@ Here, my cs50x learning journey will be documented.
 ### Day 41 (Aug 28, 2026)
 - took a break because of acads.
 
-### Day 41, (Aug 25, 2026)
+### Day 41, (Aug 29, 2026)
 - continuation
+- watched ui guide and feature tutorials.
+- research on ai assisted development
