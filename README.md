@@ -176,3 +176,7 @@ Here, my cs50x learning journey will be documented.
 - continuation
 - watched ui guide and feature tutorials.
 - research on ai assisted development
+
+### Day 42, (Aug 31, 2026)
+= finally pushed my first fastapi prototype project as a stepping stone for FInal project
+will start the project soon
