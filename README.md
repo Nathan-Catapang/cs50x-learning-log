@@ -180,3 +180,6 @@ Here, my cs50x learning journey will be documented.
 ### Day 42, (Aug 31, 2026)
 = finally pushed my first fastapi prototype project as a stepping stone for FInal project
 will start the project soon
+
+### Day 43, (Sept 3, 2026)
+- Started working on the protyping
