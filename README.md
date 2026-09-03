@@ -183,4 +183,7 @@ will start the project soon
 
 ### Day 43, (Sept 3, 2026)
 - Started working on the protyping
-- Defined the tech stack i will use for the f
+- Defined the tech stack i will use for the final project.
+
+### Day 44, (Sept 4, 2026)
+- Started on the day 2 of this.
