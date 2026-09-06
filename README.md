@@ -187,3 +187,6 @@ will start the project soon
 
 ### Day 44, (Sept 4, 2026)
 - Started on the day 2 of this.
+
+###  Day 45, (Sept 5, 2026)
+- took a break
