@@ -190,3 +190,6 @@ will start the project soon
 
 ###  Day 45, (Sept 5, 2026)
 - took a break
+
+### DAy 46, (Sept 7, 2026)
+- started again
