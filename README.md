@@ -193,3 +193,6 @@ will start the project soon
 
 ### DAy 46, (Sept 7, 2026)
 - started again
+
+### Day 47, (Sept 10, 2026)
+- added feaure Y
