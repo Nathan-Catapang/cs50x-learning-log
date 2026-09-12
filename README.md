@@ -199,3 +199,6 @@ will start the project soon
 
 ### Day 48, (Sept 11, 2026)
 - trying out a different ai tool
+
+### Day 49, (Sept 12, 2026)
+- Setting up github and student toolings as a n extra help for my final project.
